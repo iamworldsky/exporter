@@ -1,1 +1,2 @@
-# exporter
+# This is jstat Exporter
+# Usage 
